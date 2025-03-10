@@ -2,6 +2,7 @@
 
 ## 🚀 Overview
 ![Main Preview](assets/img/main.png)
+
 This project investigates spread spectrum transmission using a direct sequence spreading technique. Performance evaluation is first conducted over a Gaussian channel, with the possible presence of a jammer. Then, an experimental transmission over an acoustic channel is performed. The entire study is carried out in the Jupyter Notebook environment.
 
 ## 🎯 Purpose
